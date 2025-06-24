@@ -16,5 +16,8 @@
     "url": "https://github.com/prabasajee/github-package/issues"
   },
   "homepage": "https://github.com/prabasajee/github-package#readme",
-  "description": ""
+  "description": "",
+  "publishConfig": {
+    "@prabasajee:registry": "https://npm.pkg.github.com"
+  }
 }
